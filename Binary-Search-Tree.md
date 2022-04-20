@@ -3,7 +3,7 @@
   
   dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-Örnek: root b dir. root'un sağından b bulunur. Solunda a bulunur vb.
+Örnek: root b dir. root'un sağından c bulunur. Solunda a bulunur vb.
 
 ---
 ## Binary-Search-Tree Aşamaları
