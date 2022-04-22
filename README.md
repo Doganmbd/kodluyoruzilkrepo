@@ -27,6 +27,6 @@ code .
 [MIT](https://choosealicense.com/licenses/mit/)
 
 
-![img]()
+![img](s.png)
 
 **[Patika.dev](https://app.patika.dev/)**
